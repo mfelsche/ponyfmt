@@ -13,4 +13,4 @@ of a ponylang autoformatter.
 
 Nobody wants this:
 
-![thunderdome](https://media.giphy.com/media/J4Jn2VDdsKsUg/giphy.gif)
+![](https://media.giphy.com/media/J4Jn2VDdsKsUg/giphy.gif)
