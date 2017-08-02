@@ -13,4 +13,4 @@ of a ponylang autoformatter.
 
 Nobody wants this:
 
-![](https://media.giphy.com/media/J4Jn2VDdsKsUg/giphy.gif)
+![](https://giphy.com/gifs/J4Jn2VDdsKsUg/html5)
