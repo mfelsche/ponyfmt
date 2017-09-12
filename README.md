@@ -1,10 +1,25 @@
 # ponyfmt
-autoformatting for pony code
 
-## Current Status
+Source Code Formatter for the ponylang programming language
 
-This repository is pure vaporware.
+## Status
 
-Its sole purpose is a future repository for the actual ponyfmt code
-and, most importantly a place for discussion about the idea, approach and implementation 
-of a ponylang autoformatter.
+[![Build Status](https://travis-ci.org/mfelsche/ponyfmt.svg?branch=master)](https://travis-ci.org/mfelsche/ponyfmt)
+
+This project is still in pre-alpha state and might damage your sources.
+
+## Installation
+
+* Install [pony-stable](https://github.com/ponylang/pony-stable)
+* Update your `bundle.json`
+
+```json
+{ 
+  "type": "github",
+  "repo": "mfelsche/ponyfmt"
+}
+```
+
+* `stable fetch` to fetch your dependencies
+* `use "ponyfmt"` to include this package
+* `stable env ponyc` to compile your application
